@@ -26,5 +26,9 @@ hs_err_pid*
 /HelloSpring/HelloSpring/nbproject/private/
 /HelloSpring/target/
 /springApp1/target/
+/springApp1/.settings/
 /jTestJava/target/
 /jTestJava/nbproject/
+
+# others
+.vscode
